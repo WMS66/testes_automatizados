@@ -2,17 +2,14 @@
 
 ## JavaScript
 
-[Erick Wendel](https://www.youtube.com/watch?v=8hxhZkBzWhk)
-
--   [Video:](https://youtu.be/8hxhZkBzWhk)
-
 -   MOCK:
 
-    -   mock é o objeto necessario para o teste functionar
+    -   mock é o objeto necessário para o teste funcionar
 
-    -   cenario:
+    -   cenário:
 
         -   Ponto A
+
         -   Ponto B
         -   Ponto C
 
@@ -32,7 +29,11 @@
 -   SPY:
     -   spy é um tipo de stub, mas é usado para validar como a função foi chamada, com quais parametros e quantas vezes
 
-Links mostrados no video:
+#
+
+🖥️ fontes:
+
+-   [Erick Wendel](https://www.youtube.com/watch?v=8hxhZkBzWhk)
 
 -   [routes](https://github.com/ErickWendel/semana-javascript-expert06/blob/main/aulas/aula03-desafio-resolvido/tests/unit/server/routes.test.js)
 -   [Nodejs](https://github.com/nodejs/node/pull/42325/files)
